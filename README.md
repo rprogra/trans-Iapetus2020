@@ -1,4 +1,4 @@
-### trans-Iapetus_2020
+## trans-Iapetus_2020
 
 GPlates  files for replicating our continental reconstruction:
 
