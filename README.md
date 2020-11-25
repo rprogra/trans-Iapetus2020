@@ -4,9 +4,9 @@ GPlates  files for replicating our continental reconstruction:
 
 All continents are reconstructed in the paleomagnetic frame (004).
 
-Reconstruction file: trans-Iapetus.rot
+__Reconstruction file__: trans-Iapetus.rot
 
-Coastline file: Coastline_trans-Iapetus.gpml
+__Coastline file__: Coastline_trans-Iapetus.gpml
 
 Input paleopole files for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): ex: poleCGond.shp (.dbf / .shx): Gondwanan paleopole centers poleEGond.shp (.dbf / .shx): Gondwanan paleopole error ellipses
 
@@ -16,6 +16,6 @@ Three steps to show the early Paleozoic continental reconstructions:
 
 Run GPlates, select 'File' > 'Open Project' > 'Pangea_Formation_Coastlines.prj' (all files will be loaded);
 
-Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
+Select 'Reconstruction' > 'Specify Anchored Plate ID' > __type '4' (paleomagnetic frame)__;
 
-Select 'Reconstruction' > 'Reconstruction to Time' > type an integer between 440 and 510 Ma.
+Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
