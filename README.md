@@ -8,9 +8,9 @@ __Reconstruction file: trans-Iapetus.rot__
 
 __Coastline file: Coastline_trans-Iapetus.gpml__
 
-Input paleopole files for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): ex: poleCGond.shp (.dbf / .shx): Gondwanan paleopole centers poleEGond.shp (.dbf / .shx): Gondwanan paleopole error ellipses
+__Weighted mean pole errors: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml__
 
-APWP files for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): ex: rmSplpGond.shp (.dbf / .shx): Gondwanan running mean poles rmSpllGond.shp (.dbf / .shx): Gondwanan spline poles / curve
+for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): ex: rmSplpGond.shp (.dbf / .shx): Gondwanan running mean poles rmSpllGond.shp (.dbf / .shx): Gondwanan spline poles
 
 Three steps to show the early Paleozoic continental reconstructions:
 
