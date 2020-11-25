@@ -13,8 +13,8 @@ __Weighted mean pole errors: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml__
 
 Three steps to show the early Paleozoic continental reconstructions:
 
-<li Run GPlates, load all the files;
+1. Run GPlates, load all the files;
 
-<li Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
+2. Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
 
-<li Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
+3. Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
