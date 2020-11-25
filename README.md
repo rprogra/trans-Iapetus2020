@@ -4,11 +4,11 @@ GPlates  files for replicating our continental reconstruction:
 
 
 
-__Reconstruction file: trans-Iapetus.rot__
+__Reconstruction file__: trans-Iapetus.rot
 
-__Coastline file: Coastline_trans-Iapetus.gpml__
+__Coastline file__: Coastline_trans-Iapetus.gpml
 
-__Weighted mean pole errors: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml__
+__Mean pole errors__: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml
 
 
 
