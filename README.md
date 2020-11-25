@@ -12,7 +12,7 @@ __Mean pole errors__: rm_gond.gpml (Gondwana), rm_lau.gpml (Laurentia), rm_balt.
 
 
 
-Three steps to show the early Paleozoic continental reconstructions:
+Three steps to show the early Paleozoic continental reconstruction:
 
 1. Run GPlates, load all the files;
 
