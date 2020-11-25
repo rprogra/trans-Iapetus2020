@@ -18,4 +18,4 @@ Three steps to show the early Paleozoic continental reconstruction:
 
 2. Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame; all continents are reconstructed in this frame);
 
-3. Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
+3. Select 'Reconstruction' > 'Reconstruction to Time' > set an age between 440 and 510 Ma.
