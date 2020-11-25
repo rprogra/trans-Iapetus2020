@@ -10,11 +10,11 @@ __Coastline file: Coastline_trans-Iapetus.gpml__
 
 __Weighted mean pole errors: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml__
 
-for Gondwana (Plateid=701), Laurentia (Plateid=101), Baltica (Plateid=302) and Laurussia (Plateid=302): ex: rmSplpGond.shp (.dbf / .shx): Gondwanan running mean poles rmSpllGond.shp (.dbf / .shx): Gondwanan spline poles
 
 Three steps to show the early Paleozoic continental reconstructions:
 
-Run GPlates, select 'File' > 'Open Project' > 'Pangea_Formation_Coastlines.prj' (all files will be loaded);
+Run GPlates, load all the files
+
 
 <li Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
 
