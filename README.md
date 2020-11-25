@@ -8,7 +8,7 @@ __Reconstruction file__: trans-Iapetus.rot
 
 __Coastline file__: Coastline_trans-Iapetus.gpml
 
-__Mean pole errors__: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml
+__Mean pole errors__: rm_gond.gpml (Gondwana), rm_lau.gpml (Laurentia), rm_balt.gpml (Baltica)
 
 
 
