@@ -16,6 +16,6 @@ Three steps to show the early Paleozoic continental reconstructions:
 
 Run GPlates, select 'File' > 'Open Project' > 'Pangea_Formation_Coastlines.prj' (all files will be loaded);
 
-Select 'Reconstruction' > 'Specify Anchored Plate ID' > __type '4' (paleomagnetic frame)__;
+<li Select 'Reconstruction' > 'Specify Anchored Plate ID' > __type '4' (paleomagnetic frame)__;
 
-Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
+<li Select 'Reconstruction' > 'Reconstruction to Time' > type an age between 440 and 510 Ma.
