@@ -13,7 +13,7 @@ __Weighted mean pole errors: rm_gond.gpml, rm_lau.gpml, rm_balt.gpml__
 
 Three steps to show the early Paleozoic continental reconstructions:
 
-<li Select Run GPlates, load all the files
+<li Run GPlates, load all the files;
 
 <li Select 'Reconstruction' > 'Specify Anchored Plate ID' > type '4' (paleomagnetic frame);
 
